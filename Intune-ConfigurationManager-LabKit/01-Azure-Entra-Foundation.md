@@ -734,9 +734,5 @@ Tenant Attach / Co-management
 
 ---
 
-## Next Chapter
 
-➡️ **02 — Hyper-V Lab Deployment & Troubleshooting**
-
-The next chapter documents deployment of the Microsoft Intune and Configuration Manager Evaluation Lab Kit, including the Hyper-V architecture, VM provisioning, storage issues, failed provisioning attempts, VM recovery, and Configuration Manager validation.
 
