@@ -1,4 +1,4 @@
-# Microsoft-Endpoint-Management-Labs-KGAOGELO-LEDWABA_GAMEFIED_TECHY🤓🧑‍💻
+# Microsoft-Endpoint-Management-Labs
 
 
 Hands-on enterprise endpoint management lab portfolio focused on **Microsoft Intune, Microsoft Entra ID, Microsoft Configuration Manager (SCCM), Windows Autopilot, Azure, Microsoft 365, and Windows 11 management**.
@@ -325,3 +325,4 @@ The Microsoft evaluation lab material is used as a reference environment; this r
 ---
 
 > **Current focus:** Building the hybrid management bridge between Microsoft Configuration Manager and Microsoft Intune using Microsoft Entra ID, Tenant Attach and Co-management.
+### Kgaogelo Ledwaba | Modern Endpoint Management & Cloud Security Lab Portfolio 🧑‍💻
